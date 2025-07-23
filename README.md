@@ -20,7 +20,7 @@ This dashboard analyzes 2024 customer satisfaction survey data to uncover insigh
 
 ## 📸 Dashboard Screenshot
 
-https://github.com/Meghasoni04/Customer_Satisfaction_Analysis-/blob/b83c36569f25b62f3375e5f0176485d2557feafd/dashboard%20of%20customer%20analysis%20
+https://github.com/Meghasoni04/Customer_Satisfaction_Analysis-/blob/1bb2ebe410cc034ad398f8e2043d5a6a3bd30488/Dashboard.png
 [Dashboard Full View]
 
 ## ⚙️ Tools Used
