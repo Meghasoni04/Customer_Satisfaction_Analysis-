@@ -18,9 +18,10 @@ This dashboard analyzes 2024 customer satisfaction survey data to uncover insigh
 - Combo and column charts for group-level insights
 - Clean one-page layout using the theme
 
-## 📸 Dashboard Screenshots
+## 📸 Dashboard Screenshot
 
-![Dashboard Full View]
+https://github.com/Meghasoni04/Customer_Satisfaction_Analysis-/blob/b83c36569f25b62f3375e5f0176485d2557feafd/dashboard%20of%20customer%20analysis%20
+[Dashboard Full View]
 
 ## ⚙️ Tools Used
 - Power BI Desktop
